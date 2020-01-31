@@ -20,10 +20,11 @@ Traditional Econometric Technique),
 - Recurrent Neural Networks (a Contemporary Deep Learning
 Technique).   
 <br/>
-We have used monthly historical data for several
+We have used monthly historical data (from Bloomberg and Federal
+Reserve Economic Data) for several
 macroeconomic variables from April 1994 to December 2018
 for USA and India to predict USD-INR Foreign Exchange
-Rate.   
+Rate.      
 The results clearly depict that contemporary techniques
 of SVM and RNN (Long Short-Term Memory) outperform the
 widely used traditional method of Auto Regression. The RNN
