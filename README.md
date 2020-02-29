@@ -32,4 +32,7 @@ model with Long Short-Term Memory (LSTM) provides the
 maximum accuracy (97.83%) followed by SVM Model
 (97.17%) and VAR Model (96.31%). At last, we present a brief
 analysis of the correlation and interdependencies of the
-variables used for forecasting.
+variables used for forecasting.     
+
+   
+[Link to Submitted Paper](https://arxiv.org/ftp/arxiv/papers/2002/2002.10247.pdf)
